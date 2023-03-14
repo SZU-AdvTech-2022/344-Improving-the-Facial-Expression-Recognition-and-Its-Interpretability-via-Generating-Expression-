@@ -1,4 +1,4 @@
-@article{REPO-345,
+@article{REPO-344,
     author = "Zhang, Jing and Yu, Huimin",
     journal = "Pattern Recognition",
     pages = "108737",
