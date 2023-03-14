@@ -1,0 +1,9 @@
+@article{REPO-345,
+    author = "Zhang, Jing and Yu, Huimin",
+    journal = "Pattern Recognition",
+    pages = "108737",
+    publisher = "Elsevier",
+    title = "{Improving the Facial Expression Recognition and Its Interpretability via Generating Expression Pattern-Map}",
+    volume = "129",
+    year = "2022"
+}
